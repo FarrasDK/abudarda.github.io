@@ -1,0 +1,14 @@
+/* Navbar */
+.nav-link {
+    font-family: 'Almarai';
+    font-size: 12px;
+}
+
+.nav-link {
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+.nav-link .btn btn-primary {
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
